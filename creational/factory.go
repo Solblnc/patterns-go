@@ -10,7 +10,7 @@ type Car interface {
 	getPower() int
 }
 
-// car - defines
+// car - defines car values
 type car struct {
 	name  string
 	power int
